@@ -9,7 +9,7 @@ import random
 from datetime import datetime
 
 # ============================================================
-BOT_TOKEN = "azjBRqw6S76OQ4ArCh8dYcMXJ0OYyL2y"
+BOT_TOKEN = "MTUxNjE3MzM1OTgwMzY2NjUwMg.G6RWgF.EY8pK9zY-hQfo9uqz6-dsgUniVQSUHeUKfAStQ"
 MATCHMAKING_KANAL_ID = 1500580102151340132
 NETICE_KANAL_ID = 1500580157600170125
 MODERATOR_ROL_ID = 1487596991776034856
